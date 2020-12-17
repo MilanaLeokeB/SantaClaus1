@@ -1,0 +1,10 @@
+C:\Users\gazik\source\repos\SantaClaus1\SantaClaus1\bin\Debug\SantaClaus1.exe.config
+C:\Users\gazik\source\repos\SantaClaus1\SantaClaus1\bin\Debug\SantaClaus1.exe
+C:\Users\gazik\source\repos\SantaClaus1\SantaClaus1\bin\Debug\SantaClaus1.pdb
+C:\Users\gazik\source\repos\SantaClaus1\SantaClaus1\obj\Debug\SantaClaus1.csprojAssemblyReference.cache
+C:\Users\gazik\source\repos\SantaClaus1\SantaClaus1\obj\Debug\SantaClaus1.Form1.resources
+C:\Users\gazik\source\repos\SantaClaus1\SantaClaus1\obj\Debug\SantaClaus1.Properties.Resources.resources
+C:\Users\gazik\source\repos\SantaClaus1\SantaClaus1\obj\Debug\SantaClaus1.csproj.GenerateResource.cache
+C:\Users\gazik\source\repos\SantaClaus1\SantaClaus1\obj\Debug\SantaClaus1.csproj.CoreCompileInputs.cache
+C:\Users\gazik\source\repos\SantaClaus1\SantaClaus1\obj\Debug\SantaClaus1.exe
+C:\Users\gazik\source\repos\SantaClaus1\SantaClaus1\obj\Debug\SantaClaus1.pdb
